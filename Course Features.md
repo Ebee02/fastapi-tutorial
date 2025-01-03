@@ -1,7 +1,7 @@
 Fast api Features
 
 - Automatic docs - Swagger UI - ReDoc UI
-  \*Modern Python Syntax
+  \*Modern Python Syntax    
 - Based on open standard
   - Json schema support
   - Open API
